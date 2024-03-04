@@ -1,1 +1,0 @@
-{"processes":{"3304dbd4-c694-49fb-aae0-64ca4c5229cf":{"parent":null,"children":["f3b24277-4073-4d1e-b573-737f9fd5ec02"]},"f3b24277-4073-4d1e-b573-737f9fd5ec02":{"parent":"3304dbd4-c694-49fb-aae0-64ca4c5229cf","children":[]}},"files":{"/home/usuario/DSI-pr07/src/ejercicio-1-mod.ts":["f3b24277-4073-4d1e-b573-737f9fd5ec02"]},"externalIds":{}}
